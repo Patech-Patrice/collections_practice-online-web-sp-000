@@ -13,6 +13,7 @@ end
 
 def sort_array_char_count(array)
   array.sort do | a, b |
+    length.a <=> length.b
 end
 
 
