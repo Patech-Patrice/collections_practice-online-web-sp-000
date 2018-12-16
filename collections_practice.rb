@@ -7,4 +7,5 @@
   
   array = [25, 7, 1]
  sort_array_asc.sort! do | a,b |
-   
+   puts .to_s
+
