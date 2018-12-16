@@ -5,8 +5,6 @@
     end
   end
   
-  array = [25, 7, 1]
+ def sort_array_asc
+   array.sort
  
-   puts array.to_s
- end
-
