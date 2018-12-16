@@ -17,6 +17,9 @@ def sort_array_char_count(array)
 end
 end
 
+
+strings.sort_by(&:length)
+
 sort_array_char_count(array)
 
 
