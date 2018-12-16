@@ -36,7 +36,8 @@ end
 
 
 def find_a(array)
-  array.find 
+  array.find_all do |word| 
+    word[a]
 end
 
 
