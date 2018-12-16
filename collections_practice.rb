@@ -9,3 +9,4 @@
    array.sort do | a, b |
      b <=> a
   end
+end
